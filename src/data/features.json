@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "../images/feature-icons/01.svg",
+    "title": "Event Metrics",
+    "description": "Track your ticket sales, attendees count and more with much ease."
+  },
+  {
+    "icon": "../images/feature-icons/02.svg",
+    "title": "Registration & Ticketing",
+    "description": "Manage your Event registrations and ticket sales easier and receive payments instantly."
+  },
+  {
+    "icon": "../images/feature-icons/03.svg",
+    "title": "Branded Badges",
+    "description": "Create your custom branded badges for your events and get them printed."
+  },
+  {
+    "icon": "../images/feature-icons/04.svg",
+    "title": "Oragniser App",
+    "description": "Manage your events at the palm of your hand with our Oragniser App."
+  },
+  {
+    "icon": "../images/feature-icons/05.svg",
+    "title": "Attendee Engagement",
+    "description": "Engage with your attendees via email, surveys and much more."
+  },
+  {
+    "icon": "../images/feature-icons/06.svg",
+    "title": "Add to Calendar",
+    "description": "Effortless way to add your events to registered users calendars by 1-click."
+  }
+]

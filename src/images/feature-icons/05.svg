@@ -1,0 +1,25 @@
+<svg width="88" height="88" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2579_554)">
+<circle cx="44" cy="44" r="44" fill="#CFFAFE"/>
+<g filter="url(#filter0_d_2579_554)">
+<circle cx="44" cy="44" r="32" fill="white"/>
+</g>
+<path d="M53 56H44C43.7348 56 43.4804 55.8946 43.2929 55.7071C43.1054 55.5196 43 55.2652 43 55V53C43 52.7348 43.1054 52.4804 43.2929 52.2929C43.4804 52.1054 43.7348 52 44 52H53C53.2652 52 53.5196 52.1054 53.7071 52.2929C53.8946 52.4804 54 52.7348 54 53V55C54 55.2652 53.8946 55.5196 53.7071 55.7071C53.5196 55.8946 53.2652 56 53 56Z" fill="#29D2D3"/>
+<path d="M53 32H35C34.7348 32 34.4804 32.1054 34.2929 32.2929C34.1054 32.4804 34 32.7348 34 33V35C34 35.2652 34.1054 35.5196 34.2929 35.7071C34.4804 35.8946 34.7348 36 35 36H53C53.2652 36 53.5196 35.8946 53.7071 35.7071C53.8946 35.5196 54 35.2652 54 35V33C54 32.7348 53.8946 32.4804 53.7071 32.2929C53.5196 32.1054 53.2652 32 53 32Z" fill="#29D2D3"/>
+<path d="M53 38H35C34.7348 38 34.4804 38.1054 34.2929 38.2929C34.1054 38.4804 34 38.7348 34 39V49C34 49.2652 34.1054 49.5196 34.2929 49.7071C34.4804 49.8946 34.7348 50 35 50H53C53.2652 50 53.5196 49.8946 53.7071 49.7071C53.8946 49.5196 54 49.2652 54 49V39C54 38.7348 53.8946 38.4804 53.7071 38.2929C53.5196 38.1054 53.2652 38 53 38Z" fill="#29D2D3"/>
+</g>
+<defs>
+<filter id="filter0_d_2579_554" x="-8" y="2" width="104" height="104" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.109804 0 0 0 0 0.172549 0 0 0 0 0.25098 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2579_554"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2579_554" result="shape"/>
+</filter>
+<clipPath id="clip0_2579_554">
+<rect width="88" height="88" fill="white"/>
+</clipPath>
+</defs>
+</svg>
